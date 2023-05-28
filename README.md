@@ -8,16 +8,16 @@ A comprehensive report on the results of the analysis can be found in [report.pd
 ### Presentation preview
 Following are some slides taken from the powerpoint presentation used to present the study keypoints.
 
-![slide18](Slide18.jpg)
+![slide18](slides/Slide18.jpg)
 
-![slide19](Slide19.jpg)
+![slide19](slides/Slide19.jpg)
 
-![slide21](Slide21.jpg)
+![slide21](slides/Slide21.jpg)
 
-![slide22](Slide22.jpg)
+![slide22](slides/Slide22.jpg)
 
-![slide28](Slide28.jpg)
+![slide28](slides/Slide28.jpg)
 
-![slide29](Slide29.jpg)
+![slide29](slides/Slide29.jpg)
 
-![slide30](Slide30.jpg)
+![slide30](slides/Slide30.jpg)
